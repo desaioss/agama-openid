@@ -177,7 +177,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -685,8 +686,8 @@
 		}
 	],
 	"viewport": {
-		"x": -801,
-		"y": -89,
+		"x": -257,
+		"y": -72,
 		"zoom": 1
 	}
 }
